@@ -1,12 +1,8 @@
 # Gatsby start kit
 
-***
-
 The simple gatsby start kit with typescript and eslint.
 
 ## Installation
-
-***
 
 1. Clone project from the [github](https://github.com/SergeiKBB/gatsby-typescript-eslint-starter)
 
@@ -22,8 +18,6 @@ npm i
 
 
 ## Usage
-
-***
 
 This start kit provides several useful commands
 
