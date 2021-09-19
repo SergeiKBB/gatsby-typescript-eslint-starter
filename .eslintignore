@@ -1,0 +1,7 @@
+build
+node_modules
+.github
+*.css
+*.svg
+.cache
+public
